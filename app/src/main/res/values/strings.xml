@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dinamička promjena layouta 4</string>
+    <string name="redovan_student">Redovan student</string>
+    <string name="upisan_u_teku_u_godinu">Upisan u tekuću godinu</string>
+    <string name="promijeni_layout">Promijeni layout</string>
+    <string name="ime">Ana</string>
+    <string name="prezime">Anić</string>
+    <string name="opis_slike">Glazbeno lice</string>
+</resources>
